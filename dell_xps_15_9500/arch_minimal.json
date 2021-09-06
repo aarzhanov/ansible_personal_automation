@@ -59,7 +59,7 @@
     },
     "ntp": true,
     "packages": [
-        "git"
+        "git", "base-devel"
     ],
     "profile": "minimal",
     "superusers": {
