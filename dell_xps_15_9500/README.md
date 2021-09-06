@@ -8,19 +8,19 @@
 * Boot from USB flash
 * Switch to DE keyboard:
 ```
-loadkeys de-latin1
+   loadkeys de-latin1
 ```
 * Connect to the internet, for Wi-Fi authenticate to the wireless network use "iwctl"
 * Install git:
 ```
-pacman -S git
+   pacman -S git
 ```
 * Git clone this repo
 * Go to this directory:
 ```
-cd ansible_personal_automation/dell_xps_15_9500/
+   cd ansible_personal_automation/dell_xps_15_9500/
 ```
 * Run script:
 ```
-bash base.sh
+   bash base.sh
 ```
